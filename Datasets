@@ -1,1 +1,10 @@
+asl_digits_dataset: Contains a collection of images depicting American Sign Language (ASL) digits (0-9). Useful for training and testing ASL digit recognition models.
 
+asl_alphabet_train_dataset: Consists of images representing various ASL alphabet signs. Ideal for training machine learning models to recognize individual ASL alphabet letters.
+
+asl_alphabet_test_dataset: Comprises additional images of ASL alphabet signs, suitable for evaluating the performance of ASL recognition models.
+
+Access the datasets via Google Drive:
+Google Drive Link : 
+
+These datasets facilitate the development and assessment of ASL recognition systems, contributing to advancements in accessible communication technologies.
