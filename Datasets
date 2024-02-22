@@ -4,7 +4,6 @@ asl_alphabet_train_dataset: Consists of images representing various ASL alphabet
 
 asl_alphabet_test_dataset: Comprises additional images of ASL alphabet signs, suitable for evaluating the performance of ASL recognition models.
 
-Access the datasets via Google Drive:
-Google Drive Link : 
+The American Sign Language datasets used in this project are available on Kaggle. The alphabet dataset can be accessed https://www.kaggle.com/datasets/grassknoted/asl-alphabet, while the digit dataset is available https://www.kaggle.com/datasets/hridoy1000/asl-digit.
 
 These datasets facilitate the development and assessment of ASL recognition systems, contributing to advancements in accessible communication technologies.
